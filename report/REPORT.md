@@ -13,8 +13,8 @@ This practical is aimed at understanding the concept and application of decision
 
 ##ENVIRONMENT AND SET-UP
 -Windows Version : Windows 11
--Complier : GNU GCC
--Hardware:
+-Complier : GNU GCC.
+
 
 ##EXERCISE
 The exercise provided involved writing a program that requires input value for grades and would then display the appropriate grade and give either a pass or fail status as long as it satisfies the condition staements provided.
@@ -76,8 +76,8 @@ The value -5 will fall under the else statement and grade F is displayed and sta
 ##GitHub Workflow
 -Resporitory URL :https://github.com/Jmurungi/kioto-ics2175-lab02
 -Branch name :student/ENB211-0014/2025/lab02
--Commit Summary :
--Pull request URL :
+-Commit Summary :Lab02 submission-ENB211-0014/2025
+-Pull request URL :https://github.com/Kiotolabs/kioto-ics2175-lab02/pull/19
 
 ##Reflection
 I learnt about conditional statements such as if,else if and else . I also learnt the use of operation operators in conditional statements.
